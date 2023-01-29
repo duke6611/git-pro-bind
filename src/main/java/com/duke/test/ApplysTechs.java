@@ -15,5 +15,6 @@ public class ApplysTechs {
         System.out.println("master:alter!");
         System.out.println("hot-fix:alter");
         System.out.println("push test from master local");
+        System.out.println("pull test from master remote");
     }
 }
