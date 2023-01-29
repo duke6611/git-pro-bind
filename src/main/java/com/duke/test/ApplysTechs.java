@@ -13,5 +13,6 @@ public class ApplysTechs {
         System.out.println("hello git! hello duke002");
         System.out.println("hello git! hello duke004");
         System.out.println("master:alter!");
+        System.out.println("hot-fix:alter");
     }
 }
