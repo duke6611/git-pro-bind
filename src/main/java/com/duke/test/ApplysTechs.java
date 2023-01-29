@@ -11,5 +11,6 @@ public class ApplysTechs {
         System.out.println("hello git! hello duke");
         System.out.println("hello git! hello duke001");
         System.out.println("hello git! hello duke002");
+        System.out.println("hello git! hello duke004");
     }
 }
