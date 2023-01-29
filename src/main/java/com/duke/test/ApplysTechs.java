@@ -10,5 +10,6 @@ public class ApplysTechs {
     public static void main(String[] args) {
         System.out.println("hello git! hello duke");
         System.out.println("hello git! hello duke001");
+        System.out.println("hello git! hello duke002");
     }
 }
