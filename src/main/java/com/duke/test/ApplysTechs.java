@@ -14,5 +14,6 @@ public class ApplysTechs {
         System.out.println("hello git! hello duke004");
         System.out.println("master:alter!");
         System.out.println("hot-fix:alter");
+        System.out.println("push test from master local");
     }
 }
